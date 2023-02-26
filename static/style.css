@@ -1,0 +1,8 @@
+.nuxt-link-active{
+  background: antiquewhite;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
